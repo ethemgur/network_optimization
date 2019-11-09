@@ -1,1 +1,3 @@
-# network_optimization
+# Network Optimization
+
+Various network optimization method implementations.
