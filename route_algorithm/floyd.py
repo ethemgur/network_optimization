@@ -1,5 +1,17 @@
 import numpy as np
 from math import inf
+from time import time
+
+
+def timer(f):
+  def inner(*args, **kwargs):
+    start = time()
+    rv = f(*args, **kwargs)
+    end = time()
+    print('\tEllapsed time is {} seconds'.format(round(end - start, 2)))
+    return rv
+  return inner
+
 
 def get_path(pred, u, v, k):
   path = []
@@ -11,8 +23,9 @@ def get_path(pred, u, v, k):
   return [u] + path + [v]
 
 
+@timer
 def shortest_path(graph, k):
-  inf = 10**8
+  print('Finding the shortest path')
   V = len(graph)
 
   sp = [[None] * V for _ in range(V)]

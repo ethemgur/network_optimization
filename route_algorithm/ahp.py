@@ -10,7 +10,7 @@ def ahp(comparison):
   consistency_index = (lambda_max - len(comparison)) / (len(comparison) - 1)
   consistency_ratio = consistency_index / random_index[len(comparison) - 1]
 
-  print('Consistency ratio is:', consistency_ratio)
+  print('Consistency ratio is:', round(consistency_ratio, 2))
   return criteria_w.tolist()
 
 
