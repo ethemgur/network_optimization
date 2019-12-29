@@ -1,0 +1,22 @@
+{
+    "city": "istanbul",
+    "country": "Turkey",
+    "diningPreferences": {
+        "diningCategory": [
+            "turkish",
+            "cafe",
+            "agean"
+        ],
+        "meals": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "priceSegment": 2
+    },
+    "placePreferences": {
+        "places": [
+            "museum",
+            "shopping_mall"
+        ]
+    }
+}

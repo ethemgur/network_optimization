@@ -1,0 +1,2620 @@
+[
+    {
+        "type": "P",
+        "name": "Halic",
+        "rating": 4.5,
+        "lon": 29.07885,
+        "lat": 40.99792,
+        "category": [
+            "Bodies of Water"
+        ],
+        "comment_count": 738,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Turkish and Islamic Arts Museum (Turk ve Islam Eserleri Muzesi)",
+        "rating": 4.5,
+        "lon": 28.974806,
+        "lat": 41.00624,
+        "category": [
+            "History Museums",
+            "Art Museums"
+        ],
+        "comment_count": 574,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "historic",
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Bebek",
+        "rating": 4.5,
+        "lon": 29.04385,
+        "lat": 41.07424,
+        "category": [
+            "Neighborhoods",
+            "Parks"
+        ],
+        "comment_count": 304,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Camlica Hill",
+        "rating": 4.5,
+        "lon": 29.06838,
+        "lat": 41.02354,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 520,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Beylerbeyi Palace",
+        "rating": 4.5,
+        "lon": 29.04413,
+        "lat": 41.04369,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 387,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Rumeli Fortress",
+        "rating": 4.5,
+        "lon": 29.056154,
+        "lat": 41.08481,
+        "category": [
+            "History Museums",
+            "Historic Sites"
+        ],
+        "comment_count": 794,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "historic",
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Istanbul Arkeoloji Muzesi",
+        "rating": 4.5,
+        "lon": 28.98127,
+        "lat": 41.01162,
+        "category": [
+            "History Museums"
+        ],
+        "comment_count": 4166,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sakip Sabanci Museum",
+        "rating": 4.5,
+        "lon": 29.055635,
+        "lat": 41.106117,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 550,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Pierre Loti Tepesi",
+        "rating": 4.5,
+        "lon": 28.93309,
+        "lat": 41.05453,
+        "category": [
+            "Historic Walking Areas"
+        ],
+        "comment_count": 1065,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic",
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Madame Tussauds Istanbul",
+        "rating": 4.5,
+        "lon": 28.979683,
+        "lat": 41.034573,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 145,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Corlulu Ali Pasa Medresesi",
+        "rating": 4.5,
+        "lon": 28.96834,
+        "lat": 41.00926,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 571,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Istanbul Cevahir Mall",
+        "rating": 4.0,
+        "lon": 28.992882,
+        "lat": 41.063114,
+        "category": [
+            "Shopping Malls"
+        ],
+        "comment_count": 864,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Hodjapasha Cultural Center",
+        "rating": 4.0,
+        "lon": 28.975601,
+        "lat": 41.014095,
+        "category": [
+            "Theaters"
+        ],
+        "comment_count": 1793,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Anadolu Kavagi",
+        "rating": 4.0,
+        "lon": 29.08809,
+        "lat": 41.17354,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 360,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kadikoy Istanbul Boga Meydani",
+        "rating": 4.5,
+        "lon": 29.02877,
+        "lat": 40.98897,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 400,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Istanbul Modern",
+        "rating": 4.5,
+        "lon": 28.973312,
+        "lat": 41.029945,
+        "category": [
+            "Art Museums"
+        ],
+        "comment_count": 1724,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Mosaic Museum",
+        "rating": 4.0,
+        "lon": 28.97753,
+        "lat": 41.00424,
+        "category": [
+            "Ancient Ruins",
+            "Art Museums"
+        ],
+        "comment_count": 578,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "historic",
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Istanbul Toy Museum",
+        "rating": 4.5,
+        "lon": 29.070679,
+        "lat": 40.975918,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 268,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kucuk Ayasofya Camii (Church of the Saints Sergius and Bacchus)",
+        "rating": 4.5,
+        "lon": 28.9722,
+        "lat": 41.002728,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 1080,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Greek Othodox Patriarchate",
+        "rating": 4.5,
+        "lon": 29.24099,
+        "lat": 41.00493,
+        "category": [
+            "Churches & Cathedrals"
+        ],
+        "comment_count": 471,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Galata Mevlevi Museum",
+        "rating": 4.5,
+        "lon": 28.9748,
+        "lat": 41.02806,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 201,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Pera Museum",
+        "rating": 4.5,
+        "lon": 28.974936,
+        "lat": 41.03193,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 258,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Serefiye Sarnici",
+        "rating": 5.0,
+        "lon": 28.972353,
+        "lat": 41.007244,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 126,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kadikoy Carsisi",
+        "rating": 4.5,
+        "lon": 29.024729,
+        "lat": 40.990334,
+        "category": [
+            "Flea & Street Markets"
+        ],
+        "comment_count": 64,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "St Anthony of Padua",
+        "rating": 4.5,
+        "lon": 28.743032,
+        "lat": 41.11172,
+        "category": [
+            "Churches & Cathedrals"
+        ],
+        "comment_count": 612,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Panorama 1453",
+        "rating": 4.5,
+        "lon": 28.920025,
+        "lat": 41.017975,
+        "category": [
+            "History Museums"
+        ],
+        "comment_count": 443,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kanyon Shopping Center",
+        "rating": 4.0,
+        "lon": 29.011614,
+        "lat": 41.078148,
+        "category": [
+            "Shopping Malls"
+        ],
+        "comment_count": 307,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Mihrimah Sultan Camii",
+        "rating": 4.5,
+        "lon": 28.935928,
+        "lat": 41.02915,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 342,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Hippodrome (At Meydani)",
+        "rating": 4.0,
+        "lon": 28.977627,
+        "lat": 41.007816,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 711,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Eminonu Pier",
+        "rating": 4.0,
+        "lon": 28.97282,
+        "lat": 41.00834,
+        "category": [
+            "Piers & Boardwalks"
+        ],
+        "comment_count": 712,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Naval Museum",
+        "rating": 4.5,
+        "lon": 29.005732,
+        "lat": 41.041424,
+        "category": [
+            "Military Museums"
+        ],
+        "comment_count": 168,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Ataturk Arboretumu",
+        "rating": 4.5,
+        "lon": 28.98458,
+        "lat": 41.17737,
+        "category": [
+            "Gardens",
+            "Historic Sites",
+            "Parks"
+        ],
+        "comment_count": 109,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic",
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sirkeci Station",
+        "rating": 4.0,
+        "lon": 28.97919,
+        "lat": 41.01481,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 308,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Hidiv Kasri",
+        "rating": 4.0,
+        "lon": 29.08213,
+        "lat": 41.10651,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 100,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Pelit Chocolate Museum",
+        "rating": 4.5,
+        "lon": 28.664219,
+        "lat": 41.058865,
+        "category": [
+            "\"Childrens Museums\""
+        ],
+        "comment_count": 83,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Haydarpasa Terminal",
+        "rating": 4.5,
+        "lon": 29.018293,
+        "lat": 40.99597,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 215,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Isfanbul",
+        "rating": 4.0,
+        "lon": 28.923744,
+        "lat": 41.072002,
+        "category": [
+            "Theme Parks",
+            "Zoos",
+            "Shopping Malls"
+        ],
+        "comment_count": 634,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping",
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Arasta Bazaar",
+        "rating": 4.0,
+        "lon": 28.978237,
+        "lat": 41.00531,
+        "category": [
+            "Flea & Street Markets"
+        ],
+        "comment_count": 735,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Nuruosmaniye Camii",
+        "rating": 4.5,
+        "lon": 28.97022,
+        "lat": 41.01026,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 237,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Borusan Contemporary",
+        "rating": 4.5,
+        "lon": 29.05656,
+        "lat": 41.089085,
+        "category": [
+            "Specialty Museums",
+            "Art Museums"
+        ],
+        "comment_count": 132,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Tomb of Joshua",
+        "rating": 4.5,
+        "lon": 29.1866,
+        "lat": 40.90972,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 57,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kucuksu Pavilion",
+        "rating": 4.5,
+        "lon": 29.06487,
+        "lat": 41.078358,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 94,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "The Tomb of Suleiman the Magnificent",
+        "rating": 4.5,
+        "lon": 28.62364,
+        "lat": 41.16453,
+        "category": [
+            "Cemeteries",
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 80,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Istanbul Museum of The History of Science & Technology in Islam",
+        "rating": 4.0,
+        "lon": 28.979418,
+        "lat": 41.01364,
+        "category": [
+            "Science Museums",
+            "Specialty Museums"
+        ],
+        "comment_count": 162,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Caferaga Medresesi",
+        "rating": 4.5,
+        "lon": 28.979385,
+        "lat": 41.00926,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 330,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Valens Aqueduct",
+        "rating": 4.0,
+        "lon": 28.955805,
+        "lat": 41.015457,
+        "category": [
+            "Ancient Ruins",
+            "Historic Sites"
+        ],
+        "comment_count": 265,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic",
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sahaflar Carsisi",
+        "rating": 4.0,
+        "lon": 28.965967,
+        "lat": 41.01043,
+        "category": [
+            "Flea & Street Markets"
+        ],
+        "comment_count": 63,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Panagia Vlaherna Meryem Ana Church",
+        "rating": 5.0,
+        "lon": 29.04011,
+        "lat": 40.97214,
+        "category": [
+            "Churches & Cathedrals"
+        ],
+        "comment_count": 44,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Istanbul Dolphinarium",
+        "rating": 4.5,
+        "lon": 28.9422,
+        "lat": 41.06217,
+        "category": [
+            "Parks"
+        ],
+        "comment_count": 166,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Macka ParkI",
+        "rating": 4.0,
+        "lon": 28.99262,
+        "lat": 41.044533,
+        "category": [
+            "Parks"
+        ],
+        "comment_count": 75,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "SALT Galata, Istanbul",
+        "rating": 4.5,
+        "lon": 28.973425,
+        "lat": 41.023724,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 80,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Ihlamur Pavilion",
+        "rating": 4.5,
+        "lon": 29.001734,
+        "lat": 41.05085,
+        "category": [
+            "Castles"
+        ],
+        "comment_count": 38,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Istanbul Universitesi Rektorlugu",
+        "rating": 4.0,
+        "lon": 28.85301,
+        "lat": 40.99573,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 120,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Hagia Triada Church",
+        "rating": 4.5,
+        "lon": 28.98352,
+        "lat": 41.03568,
+        "category": [
+            "Churches & Cathedrals"
+        ],
+        "comment_count": 49,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Maritime Museum",
+        "rating": 4.0,
+        "lon": 29.006907,
+        "lat": 41.041084,
+        "category": [
+            "Military Museums"
+        ],
+        "comment_count": 58,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Rustem Pasha Mosque",
+        "rating": 4.5,
+        "lon": 28.67263,
+        "lat": 41.00564,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 2193,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Carpet And Kilim Museum",
+        "rating": 4.5,
+        "lon": 28.980762,
+        "lat": 41.00867,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 73,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Obelisk of III. Tutmosis",
+        "rating": 4.0,
+        "lon": 28.96425,
+        "lat": 41.04925,
+        "category": [
+            "Ancient Ruins"
+        ],
+        "comment_count": 544,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yoros Castle",
+        "rating": 4.0,
+        "lon": 29.09512,
+        "lat": 41.17772,
+        "category": [
+            "Castles"
+        ],
+        "comment_count": 68,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Cathedral Church of St George",
+        "rating": 4.5,
+        "lon": 28.9518,
+        "lat": 41.029236,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 53,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Buyuk Mecidiye Cami",
+        "rating": 4.5,
+        "lon": 29.0266,
+        "lat": 41.04782,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 86,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Ataturk Museum",
+        "rating": 4.5,
+        "lon": 28.986961,
+        "lat": 41.056396,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 35,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Akbati Alisveris ve Yasam Merkezi",
+        "rating": 4.5,
+        "lon": 28.667889,
+        "lat": 41.0572,
+        "category": [
+            "Shopping Malls"
+        ],
+        "comment_count": 56,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Ozgurluk Parki",
+        "rating": 4.5,
+        "lon": 29.055796,
+        "lat": 40.97912,
+        "category": [
+            "Playgrounds",
+            "Parks"
+        ],
+        "comment_count": 38,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Fethi Pasa Korusu",
+        "rating": 4.5,
+        "lon": 29.02741,
+        "lat": 41.032455,
+        "category": [
+            "Parks"
+        ],
+        "comment_count": 35,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Polonezkoy Tabiat Parki",
+        "rating": 4.5,
+        "lon": 29.210228,
+        "lat": 41.11773,
+        "category": [
+            "Nature & Wildlife Areas",
+            "Parks"
+        ],
+        "comment_count": 21,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Zeyrek Mosque",
+        "rating": 4.5,
+        "lon": 28.957195,
+        "lat": 41.019722,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 41,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sakirin Mosque",
+        "rating": 4.5,
+        "lon": 29.02432,
+        "lat": 41.01316,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 59,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Beyazit Square",
+        "rating": 4.0,
+        "lon": 28.96539,
+        "lat": 41.00931,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 161,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Les Arts Turcs Tours",
+        "rating": 5.0,
+        "lon": 28.97741,
+        "lat": 41.00828,
+        "category": [
+            "Art Galleries"
+        ],
+        "comment_count": 91,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yeni Camii",
+        "rating": 4.5,
+        "lon": 28.97212,
+        "lat": 41.01682,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 1174,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yeralti Camii",
+        "rating": 4.0,
+        "lon": 28.98222,
+        "lat": 41.02543,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 40,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kilic Ali Pasa Mosque",
+        "rating": 4.5,
+        "lon": 28.97889,
+        "lat": 41.02554,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 74,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Ferikoy Antika Pazari",
+        "rating": 4.5,
+        "lon": 28.979939,
+        "lat": 41.056553,
+        "category": [
+            "Flea & Street Markets"
+        ],
+        "comment_count": 17,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Aziz Mahmut Hudayi Mosque",
+        "rating": 4.5,
+        "lon": 29.01464,
+        "lat": 41.02249,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 23,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "German Fountain",
+        "rating": 4.0,
+        "lon": 28.88592,
+        "lat": 40.98312,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 191,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Cemberlitas Sutunu",
+        "rating": 4.0,
+        "lon": 28.97142,
+        "lat": 41.00868,
+        "category": [
+            "Monuments & Statues"
+        ],
+        "comment_count": 212,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Church of St. Mary of the Spring",
+        "rating": 4.5,
+        "lon": 28.89656,
+        "lat": 41.00203,
+        "category": [
+            "Churches & Cathedrals"
+        ],
+        "comment_count": 18,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Aviation Museum",
+        "rating": 4.0,
+        "lon": 28.82615,
+        "lat": 40.96469,
+        "category": [
+            "Military Museums"
+        ],
+        "comment_count": 34,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "St. Esprit Cathedral",
+        "rating": 5.0,
+        "lon": 28.986877,
+        "lat": 41.04096,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 25,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kamondo Stairs",
+        "rating": 4.0,
+        "lon": 28.973743,
+        "lat": 41.023954, 
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 60,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Taksim Gezi Park",
+        "rating": 4.0,
+        "lon": 28.98809,
+        "lat": 41.03846,
+        "category": [
+            "Parks"
+        ],
+        "comment_count": 286,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Anadolu Hisari Fort",
+        "rating": 4.5,
+        "lon": 29.06654,
+        "lat": 41.08323,
+        "category": [
+            "Castles"
+        ],
+        "comment_count": 55,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kanuni Sultan Suleyman Turbesi",
+        "rating": 5.0,
+        "lon": 28.96213,
+        "lat": 41.01415,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 20,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Arap Camii",
+        "rating": 4.5,
+        "lon": 28.971107,
+        "lat": 41.02445,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 31,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sali Pazari",
+        "rating": 4.0,
+        "lon": 29.029376,
+        "lat": 40.995363, 
+        "category": [
+            "Flea & Street Markets"
+        ],
+        "comment_count": 13,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Fountain of Ahmet III",
+        "rating": 4.0,
+        "lon": 29.0445,
+        "lat": 41.04312,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 113,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "II. Mahmud Turbesi",
+        "rating": 4.0,
+        "lon": 28.96879,
+        "lat": 41.01042,
+        "category": [
+            "Ancient Ruins"
+        ],
+        "comment_count": 45,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Dolmabahce Camii",
+        "rating": 4.5,
+        "lon": 28.99254,
+        "lat": 41.03488,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 69,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Neve Shalom Synagogue",
+        "rating": 4.5,
+        "lon": 28.97401,
+        "lat": 41.02561,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 16,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sogukcesme Sokak",
+        "rating": 4.5,
+        "lon": 28.61179,
+        "lat": 41.15916,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 64,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Haseki Hurrem Sultan Turbesi",
+        "rating": 4.5,
+        "lon": 28.9634,
+        "lat": 41.01714,
+        "category": [
+            "Cemeteries",
+            "Architectural Buildings"
+        ],
+        "comment_count": 17,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sancaklar Camii",
+        "rating": 4.5,
+        "lon": 28.61927,
+        "lat": 41.09287,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 22,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Mecidiye Mosque",
+        "rating": 4.5,
+        "lon": 28.83122,
+        "lat": 40.96068,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 59,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Serpent Column",
+        "rating": 4.0,
+        "lon": 28.975113,
+        "lat": 41.00561,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 186,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Besiktas JK Muzesi",
+        "rating": 4.5,
+        "lon": 28.995417,
+        "lat": 41.038486,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 15,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "The AyIn Biri Church",
+        "rating": 4.5,
+        "lon": 28.95913,
+        "lat": 41.01865,
+        "category": [
+            "Churches & Cathedrals"
+        ],
+        "comment_count": 21,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Hisart Canli Tarih Muzesi",
+        "rating": 5.0,
+        "lon": 28.983389,
+        "lat": 41.07124,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 22,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Dialogue in the Dark Istanbul Sergisi",
+        "rating": 5.0,
+        "lon": 29.004585,
+        "lat": 41.066967,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 17,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yavuz Sultan Selim Mosque",
+        "rating": 5.0,
+        "lon": 28.87976,
+        "lat": 41.10613,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 28,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Laleli Tashan",
+        "rating": 4.5,
+        "lon": 28.95742,
+        "lat": 41.01088,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 12,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Republic Monument",
+        "rating": 4.0,
+        "lon": 29.17374,
+        "lat": 40.98987,
+        "category": [
+            "Monuments & Statues"
+        ],
+        "comment_count": 47,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yoros Kalesi",
+        "rating": 4.0,
+        "lon": 29.08597,
+        "lat": 41.16602,
+        "category": [
+            "Castles"
+        ],
+        "comment_count": 87,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Air Force Museum",
+        "rating": 4.0,
+        "lon": 28.80512,
+        "lat": 40.97495,
+        "category": [
+            "Military Museums"
+        ],
+        "comment_count": 38,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Fethiye Camii",
+        "rating": 4.0,
+        "lon": 28.94649,
+        "lat": 41.029037,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 103,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Uskudar Pier",
+        "rating": 4.0,
+        "lon": 29.006445,
+        "lat": 41.02237,
+        "category": [
+            "Piers & Boardwalks"
+        ],
+        "comment_count": 43,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Turkan Saylan Kultur Merkezi",
+        "rating": 4.5,
+        "lon": 29.1564,
+        "lat": 40.92441,
+        "category": [
+            "Theaters",
+            "Arenas & Stadiums"
+        ],
+        "comment_count": 15,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Walls of Theodosius",
+        "rating": 4.0,
+        "lon": 28.95707,
+        "lat": 41.00986,
+        "category": [
+            "Historic Sites",
+            "Ancient Ruins"
+        ],
+        "comment_count": 34,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic",
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Capitol Shopping Center Uskudar",
+        "rating": 4.5,
+        "lon": 29.0386,
+        "lat": 41.0211,
+        "category": [
+            "Shopping Malls"
+        ],
+        "comment_count": 19,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kadikoy Iskelesi",
+        "rating": 4.0,
+        "lon": 29.02332,
+        "lat": 40.992275,
+        "category": [
+            "Piers & Boardwalks"
+        ],
+        "comment_count": 20,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Saray Koleksiyonlari Museum",
+        "rating": 4.5,
+        "lon": 29.004164,
+        "lat": 41.040833,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 29,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Fatih Sultan Mehmet Cami",
+        "rating": 4.5,
+        "lon": 28.77833,
+        "lat": 41.01258,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 18,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Arter",
+        "rating": 4.5,
+        "lon": 28.98449,
+        "lat": 41.03616,
+        "category": [
+            "Art Galleries"
+        ],
+        "comment_count": 18,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yenikapi Mevlevihanesi",
+        "rating": 4.5,
+        "lon": 28.91766,
+        "lat": 41.01477,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 17,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yeni Valide Mosque Complex",
+        "rating": 4.5,
+        "lon": 29.01516,
+        "lat": 41.02482,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 46,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Beyazit Mosque",
+        "rating": 4.0,
+        "lon": 28.96415,
+        "lat": 41.00947,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 99,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Santral Istanbul Energy Museum",
+        "rating": 4.5,
+        "lon": 28.94699,
+        "lat": 41.066944,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 27,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "The Quincentennial Foundation Museum of Turkish Jews",
+        "rating": 4.5,
+        "lon": 28.97408,
+        "lat": 41.025543,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 13,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Bab-i Ali Kapisi",
+        "rating": 4.0,
+        "lon": 28.97791,
+        "lat": 41.01117,
+        "category": [
+            "Ancient Ruins"
+        ],
+        "comment_count": 23,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Cinili Kosk",
+        "rating": 4.5,
+        "lon": 28.98042,
+        "lat": 41.01116,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 15,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Hunkar Kasri",
+        "rating": 4.5,
+        "lon": 28.973612,
+        "lat": 41.0175,
+        "category": [
+            "Architectural Buildings"
+        ],
+        "comment_count": 12,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kalenderhane Camii",
+        "rating": 4.0,
+        "lon": 28.95991,
+        "lat": 41.01233,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 29,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Fatih Cami",
+        "rating": 4.5,
+        "lon": 28.67308,
+        "lat": 41.0259,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 33,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Semsi Pasa Mosque Complex",
+        "rating": 4.5,
+        "lon": 29.01249,
+        "lat": 41.02511,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 20,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Nusretiye Mosque",
+        "rating": 4.5,
+        "lon": 28.98258,
+        "lat": 41.02753,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 22,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Alay Kosku",
+        "rating": 4.5,
+        "lon": 28.978304,
+        "lat": 41.010949, 
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 23,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Atik Ali Pasa Mosque",
+        "rating": 4.0,
+        "lon": 28.96846,
+        "lat": 41.00875,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 31,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Dogancay Museum",
+        "rating": 4.5,
+        "lon": 28.97836,
+        "lat": 41.03581,
+        "category": [
+            "Art Museums"
+        ],
+        "comment_count": 96,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Tower of Beyazit",
+        "rating": 4.0,
+        "lon": 29.0534,
+        "lat": 41.08424,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 31,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Ahi Ahmet Celebi Cami",
+        "rating": 4.5,
+        "lon": 28.96701,
+        "lat": 41.01836,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 24,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Anadolu Feneri",
+        "rating": 4.0,
+        "lon": 28.96522,
+        "lat": 41.03728,
+        "category": [
+            "Points of Interest & Landmarks"
+        ],
+        "comment_count": 11,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Museum of Painting & Sculpture",
+        "rating": 4.5,
+        "lon": 28.99806,
+        "lat": 41.03936,
+        "category": [
+            "Art Museums"
+        ],
+        "comment_count": 15,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum",
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Railway Museum, Istanbul",
+        "rating": 4.0,
+        "lon": 28.97987,
+        "lat": 41.01588,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 26,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Tesvikiye Mosque",
+        "rating": 4.0,
+        "lon": 28.99698,
+        "lat": 41.04809,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 19,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Yildiz Chalet",
+        "rating": 5.0,
+        "lon": 29.013502,
+        "lat": 41.053616,
+        "category": [
+            "Castles"
+        ],
+        "comment_count": 13,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Molla Celebi Cami",
+        "rating": 4.5,
+        "lon": 28.99047,
+        "lat": 41.0322,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 14,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "KadIkoy Osman Aga Mosque",
+        "rating": 4.0,
+        "lon": 29.02599,
+        "lat": 40.9909,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 27,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sokullu Sehit Mehmet Pasa Mosque",
+        "rating": 4.5,
+        "lon": 29.21987,
+        "lat": 41.0194,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 38,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Rezan Has Museum",
+        "rating": 4.0,
+        "lon": 28.960491,
+        "lat": 41.02466,
+        "category": [
+            "Specialty Museums"
+        ],
+        "comment_count": 13,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Huseyin Aga Mosque",
+        "rating": 4.0,
+        "lon": 28.98066,
+        "lat": 41.03506,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 13,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Cihangir Mosque",
+        "rating": 4.5,
+        "lon": 28.98633,
+        "lat": 41.02979,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 17,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Caferaga Madrasa - Handicrafts Center",
+        "rating": 4.5,
+        "lon": 28.978924,
+        "lat": 41.00961,
+        "category": [
+            "Art Galleries",
+            "Historic Sites"
+        ],
+        "comment_count": 18,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic",
+            "art"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Firuzaga Mosque",
+        "rating": 4.0,
+        "lon": 28.71005,
+        "lat": 41.00947,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 31,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Valide-i Cedid Cami",
+        "rating": 4.5,
+        "lon": 29.01574,
+        "lat": 41.02489,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 12,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sanatkarlar Parki",
+        "rating": 4.0,
+        "lon": 28.981,
+        "lat": 41.02665,
+        "category": [
+            "Parks"
+        ],
+        "comment_count": 13,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Union Church of Istanbul",
+        "rating": 4.5,
+        "lon": 28.97618,
+        "lat": 41.03043,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 11,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Haseki Sultan Cami",
+        "rating": 4.0,
+        "lon": 28.94411,
+        "lat": 41.00914,
+        "category": [
+            "Sacred & Religious Sites"
+        ],
+        "comment_count": 13,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Column of the Maiden",
+        "rating": 4.0,
+        "lon": 28.95175,
+        "lat": 41.01707,
+        "category": [
+            "Historic Sites"
+        ],
+        "comment_count": 17,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Anadolu Citadel",
+        "rating": 4.5,
+        "lon": 29.068,
+        "lat": 41.0841,
+        "category": [
+            "Castles"
+        ],
+        "comment_count": 16,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "historic"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Hagia Sophia Museum (Ayasofya)",
+        "rating": 4.5,
+        "lon": 28.979771,
+        "lat": 41.008453,
+        "category": [
+            "Museums"
+        ],
+        "comment_count": 40005,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Dolmabahce Palace",
+        "rating": 4.5,
+        "lon": 28.997275,
+        "lat": 41.038124,
+        "category": [
+            "Sights & Landmarks"
+        ],
+        "comment_count": 6954,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark",
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Sultanahmet District",
+        "rating": 4.5,
+        "lon": 28.976175,
+        "lat": 41.006653,
+        "category": [
+            "Sights & Landmarks"
+        ],
+        "comment_count": 15296,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark",
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Suleymaniye Mosque",
+        "rating": 4.5,
+        "lon": 28.963133,
+        "lat": 41.016724,
+        "category": [
+            "Sights & Landmarks"
+        ],
+        "comment_count": 10936,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark",
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Topkapi Palace",
+        "rating": 4.5,
+        "lon": 28.983381,
+        "lat": 41.011539,
+        "category": [
+            "Museums"
+        ],
+        "comment_count": 25258,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Bosphorus Strait",
+        "rating": 4.5,
+        "lon": 28.761921,
+        "lat": 41.048882,
+        "category": [
+            "Nature & Parks"
+        ],
+        "comment_count": 9858,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Blue Mosque",
+        "rating": 4.5,
+        "lon": 28.976822,
+        "lat": 41.005424,
+        "category": [
+            "Sights & Landmarks"
+        ],
+        "comment_count": 32064,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark",
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Rahmi M. Koc Museum",
+        "rating": 5,
+        "lon": 28.949253,
+        "lat": 41.041908,
+        "category": [
+            "Museums"
+        ],
+        "comment_count": 1455,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "museum"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Emirgan Park",
+        "rating": 4.5,
+        "lon": 29.053591,
+        "lat": 41.105381,
+        "category": [
+            "Nature & Parks"
+        ],
+        "comment_count": 894,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "park"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Eyup Sultan Mosque",
+        "rating": 4.5,
+        "lon": 28.928829,
+        "lat": 41.038582,
+        "category": [
+            "Sights & Landmarks"
+        ],
+        "comment_count": 1734,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark",
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Basilica Cistern",
+        "rating": 4.5,
+        "lon": 28.977909,
+        "lat": 41.008389,
+        "category": [
+            "Sights & Landmarks"
+        ],
+        "comment_count": 29369,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "landmark",
+            "sightseeing"
+        ]
+    },
+    {
+        "type": "P",
+        "name": "Kapali Carsi",
+        "rating": 4,
+        "lon": 28.968355,
+        "lat": 41.010162,
+        "category": [
+            "Shopping"
+        ],
+        "comment_count": 11103,
+        "price_range": 0,
+        "avg_price": 0,
+        "main": [
+            "shopping"
+        ]
+    }
+]
