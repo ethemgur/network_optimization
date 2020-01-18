@@ -1,6 +1,7 @@
 import numpy as np
 from math import inf
 from time import time
+import ujson
 
 
 def timer(f):
@@ -13,12 +14,15 @@ def timer(f):
   return inner
 
 
-def get_path(pred, u, v, k):
+def get_path(pred, u, v, k, last=False):
   path = []
   node = pred[u][v][k]
   for i in range(k-1, 0, -1):
     path.append(node)
     node = pred[node][v][i]
+    if last:
+      print('Path', i)
+      print([u] + path + [v])
 
   return [u] + path + [v]
 
@@ -51,12 +55,24 @@ def shortest_path(graph, k):
             if graph[i][a] != inf and a not in [i, j] and sp[a][j][e - 1] != inf:
               new_path_score = graph[i][a] + sp[a][j][e - 1]
               if new_path_score < sp[i][j][e]:
-                pred_new = pred.copy()
-                pred_new[i][j][e] = a
-                new_path = get_path(pred_new, i, j, e)
+#                 new_path = get_path(pred, a, j, e - 1)
+#                 if len(new_path) == len(set(new_path)):
+#                   sp[i][j][e] = new_path_score
+#                   pred[i][j][e] = a
+#                 else:
+#                   new_path = get_path(pred, i, j, e - 1)
+#                   if not a in new_path:
+#                     sp[i][j][e] = new_path_score
+#                     pred[i][j][e] = a
+                pred_ij = pred[i][j][e]
+                pred[i][j][e] = a
+                new_path = get_path(pred, i, j, e)
                 if len(new_path) == len(set(new_path)):
                   sp[i][j][e] = new_path_score
                   pred[i][j][e] = a
+                else:
+                  pred[i][j][e] = pred_ij
+
 
   return np.array(sp), pred
 

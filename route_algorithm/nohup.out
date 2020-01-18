@@ -1,0 +1,608 @@
+[I 14:58:31.881 NotebookApp] Serving notebooks from local directory: /home/me/NetworkOptimization/route_algorithm
+[I 14:58:31.882 NotebookApp] The Jupyter Notebook is running at:
+[I 14:58:31.882 NotebookApp] http://Euler:2197/
+[I 14:58:31.882 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:58:34.038 NotebookApp] 302 GET / (88.255.99.19) 1.14ms
+[I 14:58:34.096 NotebookApp] 302 GET /tree? (88.255.99.19) 2.13ms
+[W 14:58:43.889 NotebookApp] 401 POST /login?next=%2Ftree%3F (88.255.99.19) 7.60ms referer=http://159.69.194.110:2197/login?next=%2Ftree%3F
+[W 14:58:48.752 NotebookApp] 401 POST /login?next=%2Ftree%3F (88.255.99.19) 6.94ms referer=http://159.69.194.110:2197/login?next=%2Ftree%3F
+[W 14:58:53.902 NotebookApp] 401 POST /login?next=%2Ftree%3F (88.255.99.19) 2.92ms referer=http://159.69.194.110:2197/login?next=%2Ftree%3F
+[W 14:59:11.899 NotebookApp] 401 POST /login?next=%2Ftree%3F (88.255.99.19) 4.82ms referer=http://159.69.194.110:2197/login?next=%2Ftree%3F
+[C 14:59:38.618 NotebookApp] received signal 15, stopping
+[I 14:59:38.649 NotebookApp] Shutting down 0 kernels
+[I 14:59:56.274 NotebookApp] Serving notebooks from local directory: /home/me/NetworkOptimization/route_algorithm
+[I 14:59:56.274 NotebookApp] The Jupyter Notebook is running at:
+[I 14:59:56.274 NotebookApp] http://Euler:2197/
+[I 14:59:56.275 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:59:59.804 NotebookApp] 302 POST /login?next=%2Ftree%3F (88.255.99.19) 2.71ms
+[I 15:00:00.374 NotebookApp] 302 GET /tree? (88.255.99.19) 0.93ms
+[I 15:00:05.311 NotebookApp] Creating new notebook in 
+[W 15:00:06.235 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20191229145956 (88.255.99.19) 17.91ms referer=http://159.69.194.110:2197/notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:00:06.344 NotebookApp] Kernel started: 790c2038-e2ce-4c97-9953-0f6d0e963714
+[I 15:00:45.954 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:01:07.312 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:01:07.369 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:01:22.155 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:01:23.761 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:01:23.828 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:01:27.043 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:01:27.106 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:01:35.724 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:02:30.146 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:02:30.212 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:02:42.808 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:02:55.043 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:02:55.095 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:03:13.523 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:03:29.561 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:03:29.621 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:03:46.894 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:03:48.815 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:03:48.895 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:04:04.329 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:04:11.286 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:04:11.347 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:04:18.575 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:04:50.114 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:04:50.176 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:05:05.413 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:05:09.007 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:05:09.064 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:05:13.738 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:05:13.818 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:05:26.825 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:05:45.395 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:05:45.443 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:05:57.828 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:06:19.248 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:06:19.313 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:06:22.460 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:06:22.512 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:06:50.190 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:07:03.959 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:07:43.822 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:07:43.879 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:08:25.592 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:08:25.656 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:08:30.682 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:08:36.574 NotebookApp] Starting buffering for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:08:36.629 NotebookApp] Restoring connection for 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:08:50.167 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:08:54.144 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:08:59.772 NotebookApp] 302 GET / (88.255.99.19) 1.50ms
+[W 15:08:59.856 NotebookApp] Clearing invalid/expired login cookie username-ethemgur-com-2197
+[W 15:08:59.856 NotebookApp] Clearing invalid/expired login cookie username-ethemgur-com-2197
+[I 15:08:59.857 NotebookApp] 302 GET /tree? (88.255.99.19) 2.87ms
+[I 15:09:00.727 NotebookApp] 302 GET / (88.255.99.19) 0.87ms
+[I 15:09:00.783 NotebookApp] 302 GET /tree? (88.255.99.19) 0.77ms
+[I 15:09:03.392 NotebookApp] 302 POST /login?next=%2Ftree%3F (88.255.99.19) 4.87ms
+[W 15:09:07.315 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20191229145956 (88.255.99.19) 3.33ms referer=http://ethemgur.com:2197/notebooks/Untitled.ipynb
+[W 15:10:06.632 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 15:11:14.962 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:12:16.098 NotebookApp] Serving notebooks from local directory: /home/me/NetworkOptimization/route_algorithm
+[I 15:12:16.098 NotebookApp] The Jupyter Notebook is running at:
+[I 15:12:16.098 NotebookApp] http://Euler:2197/
+[I 15:12:16.098 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:12:16.803 NotebookApp] 404 GET /api/kernels/790c2038-e2ce-4c97-9953-0f6d0e963714/channels?session_id=3f5f9aa89c6d42a79ed3ab33df226195 (88.255.99.19): Kernel does not exist: 790c2038-e2ce-4c97-9953-0f6d0e963714
+[W 15:12:16.831 NotebookApp] 404 GET /api/kernels/790c2038-e2ce-4c97-9953-0f6d0e963714/channels?session_id=3f5f9aa89c6d42a79ed3ab33df226195 (88.255.99.19) 45.55ms referer=None
+[W 15:12:24.086 NotebookApp] Replacing stale connection: 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[W 15:12:33.026 NotebookApp] Replacing stale connection: 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[W 15:12:33.716 NotebookApp] Replacing stale connection: 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[W 15:12:33.749 NotebookApp] Replacing stale connection: 790c2038-e2ce-4c97-9953-0f6d0e963714:3f5f9aa89c6d42a79ed3ab33df226195
+[I 15:12:38.203 NotebookApp] 302 GET / (88.255.99.19) 1.27ms
+[I 15:12:42.395 NotebookApp] Kernel started: c560f213-c63b-4e39-b1bc-bb0ae0fa70fc
+[I 15:12:52.026 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:13:06.866 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:13:06.934 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:13:32.086 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:13:37.562 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:13:37.625 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:14:42.496 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:16:42.520 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:16:42.695 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:16:47.434 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:16:47.503 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:17:58.332 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:17:58.402 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[W 15:19:28.410 NotebookApp] WebSocket ping timeout after 90007 ms.
+[I 15:19:33.421 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:19:35.633 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:19:36.550 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:19:36.623 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:21:35.678 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:23:35.702 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:25:35.618 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:27:22.295 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:27:26.085 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:27:26.140 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:27:53.497 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:27:53.550 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:29:00.460 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:29:06.003 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:29:06.056 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:29:18.358 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:29:24.422 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:29:24.493 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:29:35.649 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:30:12.078 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:30:37.471 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:30:37.539 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:31:05.404 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:31:43.978 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:31:44.049 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:32:08.397 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:32:13.077 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:32:13.142 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:33:44.101 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:33:59.130 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:33:59.188 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:35:44.126 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:37:44.075 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:37:54.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:38:20.009 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:38:34.455 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:38:34.526 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:38:41.370 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:38:41.442 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:39:44.149 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:40:21.607 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:40:33.639 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:40:33.695 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:41:44.090 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:43:44.026 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:45:44.027 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:47:44.057 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:49:44.039 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:50:27.054 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:50:48.196 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:50:48.256 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:51:44.055 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:53:44.026 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:55:44.059 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:57:32.747 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:57:35.846 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:57:35.906 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 15:57:43.939 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:59:44.082 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:01:44.040 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:03:44.069 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:05:44.058 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:07:44.030 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:09:44.050 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:10:05.767 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:11:09.998 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:11:10.062 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:11:44.104 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:13:44.048 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:15:44.040 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:17:21.056 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:17:46.870 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:17:46.934 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:19:47.001 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:20:35.192 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:20:46.435 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:20:46.508 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:21:05.603 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:21:05.662 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:21:47.023 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:22:17.459 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:22:37.285 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:22:37.341 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:23:47.050 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:24:03.727 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:24:32.688 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:24:32.752 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:24:58.520 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:25:03.285 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:25:03.348 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:25:47.031 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:26:02.847 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:26:18.604 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:26:18.657 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:27:42.756 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:27:44.770 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:27:44.832 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:27:46.905 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:27:57.119 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:28:03.879 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:28:03.944 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:29:47.054 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:30:17.269 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:30:17.324 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:30:35.020 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:30:43.969 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:30:44.035 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:31:19.146 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:31:23.726 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:31:23.783 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:31:56.472 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:31:56.535 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:32:53.181 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:32:53.369 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:33:33.922 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:33:33.992 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:33:43.671 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:33:43.734 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:33:56.627 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:34:12.683 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:34:15.181 NotebookApp] Kernel restarted: c560f213-c63b-4e39-b1bc-bb0ae0fa70fc
+[I 16:34:16.106 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:34:16.106 NotebookApp] Replaying 6 buffered messages
+[I 16:35:04.608 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:35:12.634 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:35:12.689 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:35:26.546 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:35:28.849 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:35:28.907 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:35:31.658 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:35:32.182 NotebookApp] Kernel restarted: c560f213-c63b-4e39-b1bc-bb0ae0fa70fc
+[I 16:35:33.017 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:35:33.018 NotebookApp] Replaying 3 buffered messages
+[I 16:35:56.537 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:36:04.254 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:36:04.314 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:36:16.126 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:36:25.854 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:36:25.902 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:36:28.666 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:36:29.466 NotebookApp] Kernel restarted: c560f213-c63b-4e39-b1bc-bb0ae0fa70fc
+[I 16:36:30.321 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:36:30.321 NotebookApp] Replaying 6 buffered messages
+[I 16:37:56.637 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:39:23.861 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:39:24.859 NotebookApp] Kernel restarted: c560f213-c63b-4e39-b1bc-bb0ae0fa70fc
+[I 16:39:25.701 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:39:25.701 NotebookApp] Replaying 3 buffered messages
+[I 16:39:56.587 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:40:21.612 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:40:21.679 NotebookApp] Restoring connection for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:1059e7368c5e44b780f4244b029684b1
+[I 16:43:08.680 NotebookApp] 302 GET / (88.255.99.19) 1.78ms
+[I 16:43:15.541 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:44:27.618 NotebookApp] Starting buffering for c560f213-c63b-4e39-b1bc-bb0ae0fa70fc:52595b489e5c447d800b5c49c1cb7510
+[I 16:44:28.194 NotebookApp] Kernel shutdown: c560f213-c63b-4e39-b1bc-bb0ae0fa70fc
+[W 16:44:30.399 NotebookApp] 404 GET /files/custom.css (88.255.99.19) 2.86ms referer=http://ethemgur.com:2197/files/Untitled.slides.html
+[I 16:44:58.991 NotebookApp] Kernel started: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 16:46:59.203 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:48:59.715 NotebookApp] WebSocket ping timeout after 119861 ms.
+[I 16:49:04.735 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:7f88f69f9c0c4a1580272fe579c2ef66
+[I 16:49:15.689 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:49:16.575 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:7f88f69f9c0c4a1580272fe579c2ef66
+[I 16:51:15.878 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:53:15.783 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:55:15.840 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:01:15.822 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:03:15.828 NotebookApp] Saving file at /Untitled.ipynb
+[W 17:05:46.590 NotebookApp] WebSocket ping timeout after 119955 ms.
+[I 17:05:47.501 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:7f88f69f9c0c4a1580272fe579c2ef66
+[I 17:05:48.600 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:7f88f69f9c0c4a1580272fe579c2ef66
+[I 17:07:47.878 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:09:47.915 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:11:50.020 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:7f88f69f9c0c4a1580272fe579c2ef66
+[I 17:14:35.831 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:16:35.750 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:18:35.740 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:21:04.721 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:23:04.520 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:25:04.423 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:27:04.459 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:29:04.472 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:31:04.465 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:33:04.487 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:40:59.636 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 17:43:01.473 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[W 17:48:31.488 NotebookApp] WebSocket ping timeout after 106727 ms.
+[I 17:48:36.502 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 17:49:03.836 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 17:51:03.136 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:53:03.092 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:57:03.093 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:59:03.170 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:02:27.818 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 18:04:45.027 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 18:06:47.439 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:08:47.431 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:08:55.496 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 18:08:56.226 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 18:08:57.120 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 18:08:57.120 NotebookApp] Replaying 6 buffered messages
+[I 18:10:47.449 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:12:47.389 NotebookApp] Saving file at /Untitled.ipynb
+[W 18:14:57.127 NotebookApp] WebSocket ping timeout after 119948 ms.
+[I 18:15:02.147 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 18:17:32.030 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 18:19:31.356 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:21:31.366 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:27:56.996 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:29:57.028 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:31:57.008 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:33:57.036 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:37:56.982 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:39:57.071 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:55:57.153 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:59:57.005 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:05:57.221 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:07:57.023 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:09:57.054 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:11:57.018 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:13:57.106 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:15:57.669 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:17:57.778 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:19:57.664 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:21:57.733 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:23:57.677 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:25:58.686 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:27:57.663 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:29:57.645 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:30:36.912 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 19:30:37.702 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 19:30:38.708 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 19:30:38.708 NotebookApp] Replaying 6 buffered messages
+[I 19:31:26.930 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 19:31:27.419 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 19:31:28.280 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 19:31:28.281 NotebookApp] Replaying 6 buffered messages
+[I 19:31:54.364 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 19:31:54.798 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 19:31:55.608 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 19:31:55.608 NotebookApp] Replaying 3 buffered messages
+[I 19:31:57.648 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:32:46.996 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:a2925ce5d8fd4eb484d2e2aa36ae734a
+[I 19:38:07.434 NotebookApp] 302 GET / (88.255.99.17) 5.73ms
+[I 19:38:07.502 NotebookApp] 302 GET /tree? (88.255.99.17) 3.08ms
+[I 19:38:21.706 NotebookApp] 302 POST /login?next=%2Ftree%3F (88.255.99.17) 8.64ms
+[W 19:38:30.364 NotebookApp] Notebook Presentation.ipynb is not trusted
+[I 19:40:20.109 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6dc07cbb1e794406882a1821e128e68d
+[I 21:25:18.006 NotebookApp] 302 GET / (88.255.99.13) 1.33ms
+[I 21:25:18.620 NotebookApp] 302 GET / (88.255.99.13) 1.20ms
+[W 21:25:26.222 NotebookApp] Notebook Presentation.ipynb is not trusted
+[I 21:27:28.086 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:29:27.366 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:31:37.484 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:33:37.488 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:35:37.419 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:37:37.447 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:39:38.127 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:41:03.603 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:41:04.282 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 21:41:05.305 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:41:05.305 NotebookApp] Replaying 6 buffered messages
+[I 21:41:28.220 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:41:34.141 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:41:34.564 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 21:41:35.708 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:41:35.708 NotebookApp] Replaying 3 buffered messages
+[I 21:41:37.274 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:42:00.391 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:42:00.966 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 21:42:01.824 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:42:01.824 NotebookApp] Replaying 6 buffered messages
+[I 21:43:14.007 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:43:14.693 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 21:43:15.508 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 21:43:15.508 NotebookApp] Replaying 6 buffered messages
+[I 21:43:37.416 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:45:37.713 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:46:15.152 NotebookApp] Saving file at /Presentation.ipynb
+[I 21:46:17.088 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:25cd0ff4e1f54c86a546024fe9fe31a3
+[I 22:03:19.460 NotebookApp] 302 GET / (88.255.99.13) 4.46ms
+[I 22:03:21.582 NotebookApp] 302 GET / (88.255.99.13) 1.98ms
+[I 22:03:21.592 NotebookApp] 302 GET / (88.255.99.13) 0.82ms
+[I 22:05:25.753 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:15:25.564 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:20:47.821 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:20:48.385 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 22:20:49.321 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:20:49.321 NotebookApp] Replaying 6 buffered messages
+[I 22:21:29.923 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:23:29.831 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:25:29.955 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:31:07.863 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:33:30.021 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:39:29.859 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:40:52.898 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:40:53.590 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 22:40:54.584 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:40:54.584 NotebookApp] Replaying 3 buffered messages
+[I 22:41:29.976 NotebookApp] Saving file at /Presentation.ipynb
+[W 22:43:24.593 NotebookApp] WebSocket ping timeout after 119890 ms.
+[I 22:43:29.608 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:43:33.645 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:44:42.352 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:44:42.938 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 22:44:43.864 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 22:44:43.864 NotebookApp] Replaying 3 buffered messages
+[I 22:45:33.049 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:47:32.950 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:49:32.935 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:51:32.876 NotebookApp] Saving file at /Presentation.ipynb
+[I 22:57:32.918 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:01:32.914 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:03:32.864 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:05:32.930 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:07:43.349 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:09:39.342 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 23:09:39.903 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 23:09:40.887 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 23:09:40.888 NotebookApp] Replaying 6 buffered messages
+[I 23:09:43.313 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:11:29.348 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 23:11:29.910 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 23:11:30.962 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 23:11:30.962 NotebookApp] Replaying 6 buffered messages
+[I 23:11:43.300 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:13:57.157 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:15:57.145 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:21:57.187 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:25:57.186 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:27:49.420 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 23:39:56.177 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 23:39:58.494 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:2061f60fccc140869ca8ad614ab352c0
+[I 23:48:00.681 NotebookApp] 302 GET / (88.255.99.13) 0.95ms
+[I 23:48:01.695 NotebookApp] 302 GET / (88.255.99.13) 2.47ms
+[I 23:48:01.787 NotebookApp] 302 GET / (88.255.99.13) 1.09ms
+[I 23:48:49.245 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:05c0797cd1de49d983198c3d7d1ae0b6
+[I 23:49:10.207 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:49:19.555 NotebookApp] Saving file at /Presentation.ipynb
+[I 23:49:54.298 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:cc7584b2efa94f71a89ba8510a563968
+[W 02:14:23.866 NotebookApp] 403 POST / (193.169.253.157): '_xsrf' argument missing from POST
+[W 02:14:23.867 NotebookApp] 403 POST / (193.169.253.157) 2.78ms referer=None
+[I 02:14:23.868 NotebookApp] Malformed HTTP message from 193.169.253.157: Malformed HTTP request line
+[I 10:08:16.037 NotebookApp] 302 GET / (88.255.99.13) 6.92ms
+[I 10:08:17.115 NotebookApp] 302 GET / (88.255.99.13) 1.04ms
+[I 10:08:17.250 NotebookApp] 302 GET / (88.255.99.13) 0.58ms
+[I 10:08:25.504 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:927cd8ee287848b1aaf4ce638e49449b
+[I 10:08:26.030 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:08:26.981 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:927cd8ee287848b1aaf4ce638e49449b
+[I 10:08:26.981 NotebookApp] Replaying 6 buffered messages
+[I 10:10:21.493 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:12:21.353 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:12:39.867 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:927cd8ee287848b1aaf4ce638e49449b
+[I 10:33:57.483 NotebookApp] 302 GET / (88.255.99.13) 4.44ms
+[I 10:36:01.917 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:37:11.016 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:38:33.796 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:38:33.869 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:39:22.144 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:39:26.844 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:39:26.907 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:39:32.823 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:39:34.074 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:39:35.011 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:39:35.011 NotebookApp] Replaying 6 buffered messages
+[I 10:40:17.608 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:40:25.721 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:40:25.780 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:40:32.833 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:40:33.714 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:40:34.168 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:40:34.699 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:40:34.700 NotebookApp] Replaying 6 buffered messages
+[I 10:40:50.821 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:41:25.916 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:41:25.973 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:41:28.710 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:41:29.290 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:41:30.120 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:41:30.121 NotebookApp] Replaying 6 buffered messages
+[I 10:41:47.893 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:42:19.527 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:42:19.607 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:42:33.230 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:42:42.421 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:42:42.465 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:42:45.870 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:42:46.357 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:42:47.200 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:42:47.201 NotebookApp] Replaying 3 buffered messages
+[I 10:42:52.810 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:43:43.104 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:43:43.172 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:43:45.760 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:43:46.222 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:43:47.129 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:43:47.129 NotebookApp] Replaying 3 buffered messages
+[I 10:43:58.547 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:44:07.566 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:44:07.617 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:44:13.603 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:44:14.290 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:44:15.193 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:44:15.193 NotebookApp] Replaying 6 buffered messages
+[I 10:44:34.138 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:45:01.084 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:45:01.152 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:45:31.974 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:45:32.038 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:45:34.205 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:45:34.885 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 10:45:35.973 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 10:45:35.974 NotebookApp] Replaying 3 buffered messages
+[I 10:46:34.210 NotebookApp] Saving file at /Presentation.ipynb
+[I 10:49:13.203 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:08:55.567 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:08:56.439 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:08:56.509 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[W 11:10:26.515 NotebookApp] WebSocket ping timeout after 90004 ms.
+[I 11:10:31.536 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:20:15.599 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:20:16.486 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:20:16.556 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:20:24.823 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:20:25.486 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 11:20:26.433 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:20:26.434 NotebookApp] Replaying 6 buffered messages
+[I 11:22:16.005 NotebookApp] Saving file at /Presentation.ipynb
+[I 11:23:54.572 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:6632f3a7a0514af6851a3c9374ad0674
+[I 11:25:05.823 NotebookApp] 302 GET / (88.255.99.40) 3.94ms
+[I 11:25:23.438 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:ea2b5828e05849bdab300a4760af5bd6
+[I 11:25:23.970 NotebookApp] Kernel restarted: e4f15618-b6cc-4df2-8184-82b02c78c815
+[I 11:25:25.030 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:ea2b5828e05849bdab300a4760af5bd6
+[I 11:25:25.030 NotebookApp] Replaying 3 buffered messages
+[I 11:27:12.804 NotebookApp] Saving file at /Presentation.ipynb
+[I 11:28:50.048 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:ea2b5828e05849bdab300a4760af5bd6
+[I 12:04:21.509 NotebookApp] 302 GET / (88.255.99.40) 2.32ms
+[I 12:04:21.568 NotebookApp] 302 GET /tree? (88.255.99.40) 1.78ms
+[I 12:04:27.509 NotebookApp] 302 POST /login?next=%2Ftree%3F (88.255.99.40) 2.57ms
+[I 12:04:55.179 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:ea830bbc9bd146bfb761e69fd1c8eb2c
+[I 12:28:02.273 NotebookApp] 302 GET / (88.255.99.37) 2.08ms
+[I 12:28:02.338 NotebookApp] 302 GET /tree? (88.255.99.37) 1.15ms
+[I 12:28:07.150 NotebookApp] 302 POST /login?next=%2Ftree%3F (88.255.99.37) 4.10ms
+[I 12:30:15.388 NotebookApp] Saving file at /Presentation.ipynb
+[I 12:40:15.451 NotebookApp] Saving file at /Presentation.ipynb
+[I 12:45:22.661 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:c5044a82a6d4406e8faa2d69325b85c0
+[W 12:45:25.042 NotebookApp] Forbidden
+[W 12:45:25.042 NotebookApp] 403 GET /api/sessions?_=1577705288021 (88.255.99.37) 1.64ms referer=http://ethemgur.com:2197/tree?
+[W 12:45:25.046 NotebookApp] Forbidden
+[W 12:45:25.047 NotebookApp] 403 GET /api/terminals?_=1577705288022 (88.255.99.37) 1.29ms referer=http://ethemgur.com:2197/tree?
+[W 20:19:18.185 NotebookApp] 403 POST / (193.169.253.155): '_xsrf' argument missing from POST
+[W 20:19:18.187 NotebookApp] 403 POST / (193.169.253.155) 3.45ms referer=None
+[I 20:19:18.187 NotebookApp] Malformed HTTP message from 193.169.253.155: Malformed HTTP request line
+[W 07:44:53.064 NotebookApp] 403 POST / (193.169.253.203): '_xsrf' argument missing from POST
+[W 07:44:53.067 NotebookApp] 403 POST / (193.169.253.203) 5.73ms referer=None
+[I 07:44:53.068 NotebookApp] Malformed HTTP message from 193.169.253.203: Malformed HTTP request line
+[W 11:04:56.521 NotebookApp] 403 POST / (193.169.253.203): '_xsrf' argument missing from POST
+[W 11:04:56.523 NotebookApp] 403 POST / (193.169.253.203) 4.36ms referer=None
+[I 11:04:56.524 NotebookApp] Malformed HTTP message from 193.169.253.203: Malformed HTTP request line
+[W 02:29:38.628 NotebookApp] 403 POST / (193.169.253.150): '_xsrf' argument missing from POST
+[W 02:29:38.629 NotebookApp] 403 POST / (193.169.253.150) 2.72ms referer=None
+[I 02:29:38.630 NotebookApp] Malformed HTTP message from 193.169.253.150: Malformed HTTP request line
+[W 21:56:19.011 NotebookApp] 403 POST / (193.169.253.154): '_xsrf' argument missing from POST
+[W 21:56:19.013 NotebookApp] 403 POST / (193.169.253.154) 3.42ms referer=None
+[I 21:56:19.013 NotebookApp] Malformed HTTP message from 193.169.253.154: Malformed HTTP request line
+[W 14:15:49.801 NotebookApp] 403 POST / (193.169.253.209): '_xsrf' argument missing from POST
+[W 14:15:49.803 NotebookApp] 403 POST / (193.169.253.209) 4.90ms referer=None
+[I 14:15:49.804 NotebookApp] Malformed HTTP message from 193.169.253.209: Malformed HTTP request line
+[I 17:12:53.364 NotebookApp] 302 GET / (85.103.37.190) 2.44ms
+[I 17:12:53.474 NotebookApp] 302 GET /tree? (85.103.37.190) 2.96ms
+[I 17:13:52.330 NotebookApp] 302 GET / (85.103.37.190) 1.91ms
+[I 17:13:52.388 NotebookApp] 302 GET /tree? (85.103.37.190) 1.71ms
+[I 17:14:06.289 NotebookApp] 302 POST /login?next=%2Ftree%3F (85.103.37.190) 3.04ms
+[I 17:16:52.312 NotebookApp] Saving file at /Presentation.ipynb
+[I 17:31:51.318 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:f4a5c551dbff4bef8d7a965cbea8a2e9
+[I 19:26:18.534 NotebookApp] 302 GET / (88.255.99.12) 1.87ms
+[I 19:26:18.608 NotebookApp] 302 GET /tree? (88.255.99.12) 1.35ms
+[I 19:26:22.067 NotebookApp] 302 POST /login?next=%2Ftree%3F (88.255.99.12) 3.07ms
+[I 19:28:27.829 NotebookApp] Saving file at /Presentation.ipynb
+[I 19:35:31.278 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:31cf42495ccd497a8febd8b2823f285b
+[I 19:35:32.559 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:31cf42495ccd497a8febd8b2823f285b
+[W 19:38:02.569 NotebookApp] WebSocket ping timeout after 119935 ms.
+[I 19:38:07.582 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:31cf42495ccd497a8febd8b2823f285b
+[I 19:53:38.059 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:31cf42495ccd497a8febd8b2823f285b
+[I 19:57:32.724 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:31cf42495ccd497a8febd8b2823f285b
+[W 01:36:43.736 NotebookApp] 403 POST / (193.169.253.154): '_xsrf' argument missing from POST
+[W 01:36:43.740 NotebookApp] 403 POST / (193.169.253.154) 7.85ms referer=None
+[I 01:36:43.741 NotebookApp] Malformed HTTP message from 193.169.253.154: Malformed HTTP request line
+[I 10:05:41.573 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:f4a5c551dbff4bef8d7a965cbea8a2e9
+[I 11:16:34.313 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:f4a5c551dbff4bef8d7a965cbea8a2e9
+[I 11:18:51.634 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:f4a5c551dbff4bef8d7a965cbea8a2e9
+[I 16:54:55.113 NotebookApp] Restoring connection for e4f15618-b6cc-4df2-8184-82b02c78c815:f4a5c551dbff4bef8d7a965cbea8a2e9
+[I 16:55:17.205 NotebookApp] Starting buffering for e4f15618-b6cc-4df2-8184-82b02c78c815:f4a5c551dbff4bef8d7a965cbea8a2e9
+[W 20:18:26.987 NotebookApp] 403 POST / (193.169.253.208): '_xsrf' argument missing from POST
+[W 20:18:26.989 NotebookApp] 403 POST / (193.169.253.208) 4.36ms referer=None
+[I 20:18:26.990 NotebookApp] Malformed HTTP message from 193.169.253.208: Malformed HTTP request line
+[W 16:04:03.624 NotebookApp] 403 POST / (193.169.253.154): '_xsrf' argument missing from POST
+[W 16:04:03.626 NotebookApp] 403 POST / (193.169.253.154) 3.79ms referer=None
+[I 16:04:03.627 NotebookApp] Malformed HTTP message from 193.169.253.154: Malformed HTTP request line
+[C 18:05:10.505 NotebookApp] received signal 15, stopping
+[I 18:05:10.529 NotebookApp] Shutting down 1 kernel
+[I 18:05:10.841 NotebookApp] Kernel shutdown: e4f15618-b6cc-4df2-8184-82b02c78c815
